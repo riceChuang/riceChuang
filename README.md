@@ -1,16 +1,39 @@
-## Hi there 👋
+[![GoDoc](https://pkg.go.dev/badge/github.com/riceChuang/riceChuang)](https://pkg.go.dev/github.com/riceChuang/riceChuang)
+![Supported Go Versions](https://img.shields.io/badge/Go-1.22%2C%201.23-lightgrey.svg)
+---
 
-<!--
-**riceChuang/riceChuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 😄 **Name:** Jason Chuang
+- 🔭 **Born in:** 1993
+- 🌱 **Gender:** Male
+- 💼 **Work Experience:** Blockchain, Crypto, Slot Games
+- 📫 **Main Language:** Go
+- 🔗 **Github:** [repositories](https://github.com/riceChuang?tab=repositories&type=public&sort=stargazers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=riceChuang&hide=html&card_width=465)
+
+
+---
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=riceChuang&theme=radical&utcOffset=8.00" alt="TIME-GRAPH" width="465">
+
+---
+
+[![RICECHUANG'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=riceChuang)](https://github.com/riceChuang)
+
+---
+
+[![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=riceChuang)](https://github.com/riceChuang)
+
+---
+
+[![VISIT-COUNT](https://visitcount.itsvg.in/api?id=riceChuang&label=profile-views&pretty=true)](https://visitcount.itsvg.in)
+
+# Thank You for visiting my Porfile!
+
+---
