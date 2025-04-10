@@ -29,11 +29,3 @@
 ---
 
 [![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=riceChuang)](https://github.com/riceChuang)
-
----
-
-[![VISIT-COUNT](https://visitcount.itsvg.in/api?id=riceChuang&label=profile-views&pretty=true)](https://visitcount.itsvg.in)
-
-# Thank You for visiting my Porfile!
-
----
