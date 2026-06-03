@@ -76,14 +76,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/riceChuang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riceChuang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=00ADD8&icon_color=00ADD8&cache_seconds=86400" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riceChuang&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=00ADD8&cache_seconds=86400" alt="Top Languages" />
-  </a>
+  <img src="./metrics.svg" alt="Metrics" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🌐 Languages</b></td>
+    <td>Go · Python · Solidity · TypeScript · PHP</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏗️ Domains</b></td>
+    <td>Crypto Exchange · iGaming · DeFi · Distributed Systems</td>
+  </tr>
+  <tr>
+    <td align="center"><b>📦 Public Repos</b></td>
+    <td>19 repositories · primarily Go</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌏 Timezone</b></td>
+    <td>Asia/Taipei (UTC+8)</td>
+  </tr>
+</table>
 
 ---
 
