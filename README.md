@@ -76,30 +76,23 @@
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 Achievements
 
 <p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
+  <img src="./metrics.achievements.svg" alt="Achievements" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center"><b>🌐 Languages</b></td>
-    <td>Go · Python · Solidity · TypeScript · PHP</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🏗️ Domains</b></td>
-    <td>Crypto Exchange · iGaming · DeFi · Distributed Systems</td>
-  </tr>
-  <tr>
-    <td align="center"><b>📦 Public Repos</b></td>
-    <td>19 repositories · primarily Go</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌏 Timezone</b></td>
-    <td>Asia/Taipei (UTC+8)</td>
-  </tr>
-</table>
+---
+
+### 📅 Daily Commits
+
+<p align="center">
+  <img src="./metrics.calendar.svg" alt="Daily commit calendar" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riceChuang&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=00ADD8" alt="Activity Graph" />
+</p>
 
 ---
 
