@@ -76,10 +76,10 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 Highlights
 
 <p align="center">
-  <img src="./metrics.achievements.svg" alt="Achievements" />
+  <img src="./metrics.highlights.svg" alt="Highlights" />
 </p>
 
 ---
